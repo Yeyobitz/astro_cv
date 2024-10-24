@@ -1,189 +1,198 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "name": "Diego Alexander QM",
+    "label": "Programmer",
+    "image": "https://raw.githubusercontent.com/Yeyobitz/Front-End/3198fec59cf120b03a80ab73fcba19de46af7377/certamen1/assets/img/yeyo-T.png",
+    "email": "diegoqm96@hotmail.com",
+    "phone": "+56 9 5094 4500",
+    "url": "https://yeyobitz.dev",
+    "summary": "Programming analyst focused on web development with a strong background in Audiovisual and Multimedia Direction. Passionate about new technologies and gamification. I have worked on personal and collaborative projects, with certifications in Python and Responsive Web Design.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "Spain"
+      "postalCode": "",
+      "city": "Talcahuano",
+      "countryCode": "CL",
+      "region": "VIII Región del Bío-Bío"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "Diego Quiñones Montecinos",
+        "url": "https://www.linkedin.com/in/diego-qui%C3%B1ones-montecinos-650010249/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "Yeyobitz",
+        "url": "https://github.com/Yeyobitz"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "name": "Freelance",
+      "position": "Programmer",
+      "url": "",
+      "startDate": "2024-10-24",
+      "endDate": "Presente",
+      "summary": "Development of web applications and personal projects.",
       "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
-      "highlights": [
-        "Started the company"
+        "Proyectos personales",
+        "Desarrollo web"
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "INACAP, Chile",
+      "url": "",
+      "area": "Programming Analyst",
+      "studyType": "Technical Degree",
+      "startDate": "2021",
+      "endDate": "Presente",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Universidad Católica de la Santísima Concepción, Chile",
+      "url": "",
+      "area": "Audiovisual and Multimedia Direction",
+      "studyType": "Incomplete",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Python Essentials 1",
+      "date": "2023-05-18",
+      "issuer": "Cisco",
+      "url": "https://www.credly.com/badges/dd80027e-3a89-41e3-a8d9-7fe6368543ca/linked_in_profile"
+    },
+    {
+      "name": "Responsive Web Design",
+      "date": "2023-05-31",
+      "issuer": "FreeCodeCamp ",
+      "url": "https://www.freecodecamp.org/certification/Yeyobitz/responsive-web-design"
+    }
+  ],
+  "publications": [],
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Intermediate",
       "keywords": [
-        "Web development", "Frontend"
+        "Web development",
+        "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Intermediate",
       "keywords": [
-        "Web development", "Frontend", "Diseño Responsive"
+        "Web development",
+        "Frontend",
+        "Responsive Design"
       ]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
+      "level": "Intermediate",
       "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
+        "Web development",
+        "Frontend"
       ]
     },
     {
       "name": "Tailwind",
-      "level": "Advanced",
+      "level": "Intermediate",
       "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Web development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
       ]
     },
     {
-      "name": "TypeScript",
-      "level": "Advanced",
+      "name": "Python",
+      "level": "Intermediate",
       "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
+        "Web development",
+        "Backend",
+        "Data Science",
+        "Machine Learning"
       ]
     },
     {
-      "name": "Node",
-      "level": "Advanced",
+      "name": "Django",
+      "level": "Basic",
       "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
+        "Web development",
+        "Backend",
+        "Python",
+        "Servidor"
       ]
     },
     {
       "name": "MySQL",
       "level": "Advanced",
       "keywords": [
-        "Bases de Datos", "SQL", "Database", "Backend"
+        "Bases de Datos",
+        "SQL",
+        "Database",
+        "Backend"
       ]
     },
     {
       "name": "Git",
-      "level": "Advanced",
+      "level": "Basic",
       "keywords": [
-        "Version control", "Colaboración", "Source code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Advanced",
-      "keywords": [
-        "Version control", "Collaboration", "Source code", "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Version control",
+        "Collaboration",
+        "Source code",
+        "GitHub"
       ]
     },
     {
       "name": "React",
-      "level": "Advanced",
+      "level": "Basic",
       "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
+        "Web development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "API Integration",
+      "level": "Intermediate",
+      "keywords": [
+        "APIs",
+        "Data Fetching",
+        "CoinMarketCap API",
+        "Web Services"
+      ]
+    },
+    {
+      "name": "C#",
+      "level": "Basic",
+      "keywords": [
+        "Game Development",
+        "Unity",
+        "Programming"
+      ]
+    },
+    {
+      "name": "Telegram Bot Development",
+      "level": "Basic",
+      "keywords": [
+        "Bot Automation",
+        "Telegram API",
+        "Python",
+        "Automation"
       ]
     }
   ],
@@ -197,79 +206,105 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "Gamefication",
+      "keywords": [
+        "Learning",
+        "Motivation",
+        "Game Design",
+        "User Engagement"
+      ]
+    },
+    {
+      "name": "Drones",
+      "keywords": [
+        "Aerial Photography",
+        "FPV Racing",
+        "DIY Building",
+        "Flight Control"
+      ]
+    },
+    {
+      "name": "Photography",
+      "keywords": [
+        "Digital",
+        "Landscape",
+        "Portrait",
+        "Composition"
+      ]
+    },
+    {
+      "name": "AiMusic",
+      "keywords": [
+        "Music Generation",
+        "Sound Design",
+        "Machine Learning",
+        "Audio Processing"
+      ]
+    }
+  ],
+  "references": [],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "El Gato in 4D",
       "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
+      "description": "A 4D version of the classic Tic-Tac-Toe game with a retro design and multiple difficulty levels.",
       "highlights": [
-        "Choose your own adventure",
-        "In progress"
+        "Game mode: 1 vs CPU or 1 vs 1",
+        "Adjustable difficulty: Easy, Medium, Hard"
       ],
-      "url": "https://mars.codes"
+      "url": "https://github.com/Yeyobitz/el-gato-4d"
     },
     {
-      "name": "AdventJS",
+      "name": "TetrisJS",
       "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
+      "description": "Tetris game implementation using JavaScript, CSS, and HTML.",
       "highlights": [
-        "+1 million visits",
-        "Multilanguage",
-        "JavaScript & TypeScript"
+        "Fully functional game in the browser",
+        "Efficient use of JavaScript for game logic"
       ],
-      "url": "https://advent.js/dev"
+      "url": "https://github.com/Yeyobitz/TetrisJS"
     },
     {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
+      "name": "BTCBotTelegram",
+      "isActive": false,
+      "description": "A Telegram bot that updates and sends Bitcoin prices in USD and CLP using the CoinMarketCap API.",
       "highlights": [
-        "+2000 active users",
-        "Challenges for any language"
+        "API integration for real-time data",
+        "Automated price checks every 15 minutes"
       ],
-      "url": "https://codember.dev"
+      "url": "https://github.com/Yeyobitz/BTCBotTelegram"
     },
     {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
+      "name": "Text-to-Morse",
+      "isActive": false,
+      "description": "A text-to-Morse code translator that plays the corresponding sound.",
       "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
+        "Converts text into Morse code",
+        "Ability to play the sound of the Morse code"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "https://github.com/Yeyobitz/Text-to-Morse"
     },
     {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
+      "name": "Space Shooter",
+      "isActive": false,
+      "description": "A space shooting game where players face waves of enemies with simple mechanics and intuitive controls.",
       "highlights": [
-        "100% free",
-        "+500 community solutions"
+        "Developed in Unity using C#",
+        "Implementation of spaceship controls and enemy logic"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "url": "https://github.com/Yeyobitz/SpaceShooter"
     },
     {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
+      "name": "Tregua Project",
+      "isActive": true,
+      "description": "A restaurant management system built with Django, featuring menu and reservation management (in development).",
       "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
+        "Django framework for backend",
+        "Reservation system and menu management"
       ],
-      "url": "https://miduconf.com"
+      "url": "https://github.com/Yeyobitz/tregua_project"
     }
   ]
 }

@@ -233,7 +233,9 @@
       "Juego completamente funcional en el navegador",
       "Uso eficiente de JavaScript para la lógica del juego"
     ],
-    "url": "https://github.com/Yeyobitz/TetrisJS"
+    "url": "https://github.com/Yeyobitz/TetrisJS",
+    "github": "https://github.com/Yeyobitz/TetrisJS"
+
   },
   {
     "name": "BTCBotTelegram",
@@ -243,7 +245,8 @@
       "Integración con API para datos en tiempo real",
       "Automatización de consultas cada 15 minutos"
     ],
-    "url": "https://github.com/Yeyobitz/BTCBotTelegram"
+    "url": "https://github.com/Yeyobitz/BTCBotTelegram",
+    "github": "https://github.com/Yeyobitz/BTCBotTelegram"
   },
   {
     "name": "Text-to-Morse",
@@ -253,7 +256,8 @@
       "Convierte texto en código Morse",
       "Capacidad de reproducción de sonido del código Morse"
     ],
-    "url": "https://github.com/Yeyobitz/Text-to-Morse"
+    "url": "https://github.com/Yeyobitz/Text-to-Morse",
+    "github": "https://github.com/Yeyobitz/Text-to-Morse"
   },
   {
     "name": "Space Shooter",
@@ -263,7 +267,8 @@
       "Desarrollado en Unity utilizando C#",
       "Implementación de controles de nave espacial y lógica de enemigos"
     ],
-    "url": "https://github.com/Yeyobitz/SpaceShooter"
+    "url": "https://github.com/Yeyobitz/SpaceShooter",
+    "github": "https://github.com/Yeyobitz/SpaceShooter"
   },
   {
     "name": "Tregua Project",
@@ -273,7 +278,8 @@
       "Framework Django para backend",
       "Sistema de reservas y gestión de menú"
     ],
-    "url": "https://github.com/Yeyobitz/tregua_project"
+    "url": "https://github.com/Yeyobitz/tregua_project",
+    "github": "https://github.com/Yeyobitz/tregua_project"
   }
 ]
 }

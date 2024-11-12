@@ -223,7 +223,9 @@
       "Modo de juego: 1 vs CPU o 1 vs 1",
       "Dificultad ajustable: Fácil, Medio, Difícil"
     ],
-    "url": "https://github.com/Yeyobitz/el-gato-4d"
+    "url": "https://multiuniversalgato.netlify.app/",
+    "github": "https://github.com/Yeyobitz/el-gato-4d"
+
   },
   {
     "name": "TetrisJS",
